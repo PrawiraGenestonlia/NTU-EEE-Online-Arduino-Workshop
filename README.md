@@ -14,4 +14,4 @@ If you have yet to enroll in the online arduino workshop course (NTU student), y
 2. Search: "Online Arduino Workshop"
 3. Click "Enroll"!
 
-Hope you have a fruitful learning experience!
+Hope you have a fruitful learning experience! :)
